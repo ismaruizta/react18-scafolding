@@ -1,0 +1,10 @@
+creamos la app - done
+añadimos router - done
+crear menu
+añadir navegación por el menu
+publicar app
+añadir base datos
+añadir servicio consumo base de datos
+
+//meter contenido
+....
