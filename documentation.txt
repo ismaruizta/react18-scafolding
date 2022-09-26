@@ -5,6 +5,7 @@ añadir navegación por el menu
 publicar app
 añadir base datos
 añadir servicio consumo base de datos
+meter cicd
 
 //meter contenido
 ....
